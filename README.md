@@ -47,7 +47,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/CodebyJanak/CodebyJanak/main/assets/dev.gif"/>
 
-```yaml
+
 name:       Janak Vasani
 alias:      CodebyJanak
 role:        Computer Engineering Student
@@ -75,9 +75,9 @@ available_for:
   - Open Source Collaboration
   - Freelance AI/ML Projects
   - Technical Discussions
-```
 
-<br clear="right"/>
+
+<br/>
 
 ---
 
