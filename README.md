@@ -56,7 +56,7 @@ pronouns:    he / him
 
 interests:
   - Backend Development
-  - Artificial Intelligence & AI Agents
+  - Frontend Devlopment 
   - Networking & Linux
   - Automation & Data Analysis
   - Open Source
